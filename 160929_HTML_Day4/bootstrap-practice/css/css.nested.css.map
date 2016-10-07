@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "css.nested.css",
+	"sources": [
+		"../sass/css.sass"
+	],
+	"mappings": "AAAA,AAAe,GAAZ,CAAA,AAAA,KAAC,EAAD,IAAC,AAAA,EAAa;EACf,YAAY,EAAE,uBAAI;EAClB,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,sBAAI,GAAoB",
+	"names": []
+}
